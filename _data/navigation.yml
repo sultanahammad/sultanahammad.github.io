@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Publications"
+    url: /publications/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "CV"
+    url: /files/CV.pdf
+  - title: "Vacancies"
+    url: /vacancies/
