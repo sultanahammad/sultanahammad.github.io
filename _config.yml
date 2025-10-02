@@ -40,7 +40,10 @@ author:
     - label: "ResearchGate"
       icon: "fab fa-researchgate"
       url: "https://www.researchgate.net/profile/Mohd-Sultan-Ahammad-2?ev=hdr_xprf" # TODO: replace with your LinkedIn
-
+      
+footer:
+  links: []   # remove footer nav links if you don’t want any
+  copyright: "© 2025 Mohd. Sultan Ahammad. All rights reserved."
 
 # Defaults for pages
 defaults:
