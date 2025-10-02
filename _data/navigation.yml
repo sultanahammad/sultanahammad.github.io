@@ -3,9 +3,14 @@ main:
     url: /
   - title: "Publications"
     url: /publications/
+  - title: "Education"
+    url: /education/
+  - title: "Employment"
+    url: /employment/
   - title: "Teaching"
     url: /teaching/
   - title: "CV"
     url: /files/CV.pdf
-  - title: "Vacancies"
-    url: /vacancies/
+  - title: "Contacts"
+    url: /contacts/
+
