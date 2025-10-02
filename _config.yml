@@ -27,7 +27,7 @@ author:
       url: "mailto:sultan.ahammad36@gmail.com"
     - label: "Google Scholar"
       icon: "ai ai-google-scholar"
-      url: "https://scholar.google.com/" # TODO: replace with your Scholar profile URL
+      url: "https://scholar.google.com/citations?user=qM-KYTkAAAAJ&hl=en/" # TODO: replace with your Scholar profile URL
     - label: "ORCID"
       icon: "ai ai-orcid"
       url: "https://orcid.org/" # TODO: replace with your ORCID
