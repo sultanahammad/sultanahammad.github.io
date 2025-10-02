@@ -41,18 +41,6 @@ author:
       icon: "fab fa-researchgate"
       url: "https://www.researchgate.net/profile/Mohd-Sultan-Ahammad-2?ev=hdr_xprf" # TODO: replace with your LinkedIn
 
-# Navigation (top menu)
-nav:
-  - title: "Home"
-    url: /
-  - title: "Publications"
-    url: /publications/
-  - title: "Teaching"
-    url: /teaching/
-  - title: "CV"
-    url: /files/CV.pdf
-  - title: "Vacancies"
-    url: /vacancies/
 
 # Defaults for pages
 defaults:
