@@ -37,9 +37,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/sultanahammad"
-      url: "https://www.researchgate.net/profile/Mohd-Sultan-Ahammad-2?ev=hdr_xprf" # TODO: replace with your LinkedIn
     - label: "ResearchGate"
-      icon: "fab fa-github"
+      icon: "fab fa-researchgate"
+      url: "https://www.researchgate.net/profile/Mohd-Sultan-Ahammad-2?ev=hdr_xprf" # TODO: replace with your LinkedIn
 
 # Navigation (top menu)
 nav:
