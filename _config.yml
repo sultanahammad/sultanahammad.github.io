@@ -26,10 +26,10 @@ author:
       icon: "fas fa-envelope"
       url: "mailto:sultan.ahammad36@gmail.com"
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar"
+      icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=qM-KYTkAAAAJ&hl=en/" # TODO: replace with your Scholar profile URL
     - label: "ORCID"
-      icon: "ai ai-orcid"
+      icon: "fa-brands fa-orcid"
       url: "https://orcid.org/my-orcid?orcid=0000-0003-1376-220X" # TODO: replace with your ORCID
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
