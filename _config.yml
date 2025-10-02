@@ -1,0 +1,71 @@
+
+title: "Mohd. Sultan Ahammad"
+name: "Mohd. Sultan Ahammad"
+description: "Assistant Professor, CSE @ MBSTU | Research: Digital Security, ML, DL, Cybersecurity, Software Engineering"
+url: "https://sultanahammad.github.io"
+baseurl: ""
+
+# Use Minimal Mistakes via remote theme (GitHub Pages compatible)
+remote_theme: "mmistakes/minimal-mistakes"
+
+# Plugins supported by GitHub Pages
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Author and social links (replace placeholders)
+author:
+  name: "Mohd. Sultan Ahammad"
+  avatar: "/assets/img/profile.jpg" # replace with your headshot (same path)
+  bio: "Assistant Professor, Dept. of CSE, Mawlana Bhashani Science & Technology University (MBSTU), Bangladesh."
+  location: "Tangail, Bangladesh"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:sultan.ahammad36@gmail.com"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/" # TODO: replace with your Scholar profile URL
+    - label: "ORCID"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/" # TODO: replace with your ORCID
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/" # TODO: replace with your LinkedIn
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/sultanahammad"
+
+# Navigation (top menu)
+nav:
+  - title: "Home"
+    url: /
+  - title: "Publications"
+    url: /publications/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "CV"
+    url: /files/CV.pdf
+  - title: "Vacancies"
+    url: /vacancies/
+
+# Defaults for pages
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "single"
+      author_profile: true
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Theme tweaks
+search: true
+minimal_mistakes_skin: "default"  # try "air", "dark", "contrast" etc.
