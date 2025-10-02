@@ -30,13 +30,16 @@ author:
       url: "https://scholar.google.com/citations?user=qM-KYTkAAAAJ&hl=en/" # TODO: replace with your Scholar profile URL
     - label: "ORCID"
       icon: "ai ai-orcid"
-      url: "https://orcid.org/" # TODO: replace with your ORCID
+      url: "https://orcid.org/my-orcid?orcid=0000-0003-1376-220X" # TODO: replace with your ORCID
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/" # TODO: replace with your LinkedIn
+      url: "https://www.linkedin.com/in/sultan-ahammad-08ba5b66/" # TODO: replace with your LinkedIn
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/sultanahammad"
+      url: "https://www.researchgate.net/profile/Mohd-Sultan-Ahammad-2?ev=hdr_xprf" # TODO: replace with your LinkedIn
+    - label: "ResearchGate"
+      icon: "fab fa-github"
 
 # Navigation (top menu)
 nav:
