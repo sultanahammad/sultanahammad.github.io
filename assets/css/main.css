@@ -1,0 +1,9 @@
+---
+---
+
+/* Minimal Mistakes base imports */
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+/* Add Academicons */
+@import url("https://cdn.jsdelivr.net/npm/academicons@1.9.4/css/academicons.min.css");
