@@ -18,7 +18,7 @@ plugins:
 # Author and social links (replace placeholders)
 author:
   name: "Mohd. Sultan Ahammad"
-  avatar: "/assets/img/profile.jpg" # replace with your headshot (same path)
+  avatar: "/assets/img/sultan_pp.jpg" # replace with your headshot (same path)
   bio: "Assistant Professor, Dept. of CSE, Mawlana Bhashani Science & Technology University (MBSTU), Bangladesh."
   location: "Tangail, Bangladesh"
   links:
