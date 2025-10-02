@@ -1,12 +1,8 @@
 
----
-title: "Home"
-permalink: /
----
 
 Welcome! I’m **Mohd. Sultan Ahammad**, Assistant Professor in the Department of Computer Science & Engineering at **MBSTU**, Bangladesh.
 
-**Research interests:** Digital Security, Machine Learning, Deep Learning, Cybersecurity, and Software Engineering.
+**Research interests:** Artificial Intelligence, Machine Learning, Deep Learning, Cybersecurity, Virtual Reality, and Software Engineering.
 
 ### News
 - *[YYYY-MM-DD]* Paper submitted to **[Venue]** on **[Topic]**.
