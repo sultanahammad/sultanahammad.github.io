@@ -1,60 +1,67 @@
+---
+---
+
+/* Load Minimal Mistakes core first */
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
 /* =======================================================
-   FULL-WIDTH HOMEPAGE + SLIGHTLY TALLER FOOTER
+   FULL-WIDTH HOME (FLUSH LEFT) + TUNED FOOTER
    ======================================================= */
 
-/* --- Remove all side padding/margin globally --- */
-html, body, .initial-content, .page, .page__inner-wrap, .page__content {
-  margin: 0 !important;
-  padding: 0 !important;
+/* 1) Nuke the theme’s left padding/margins on HOME wrappers */
+.home .initial-content > .wrap,
+.home main.page,
+.home .page__inner-wrap,
+.home .page__content {
   max-width: 100% !important;
   width: 100% !important;
+  margin: 0 !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
 }
 
-/* --- Disable sidebar completely --- */
-.sidebar, .page__sidebar, .page__meta, .author__avatar {
+/* 2) Ensure no sidebar space is being reserved anywhere */
+.home .page__sidebar,
+.home .sidebar,
+.home .page__meta,
+.home .author__avatar {
   display: none !important;
   width: 0 !important;
   margin: 0 !important;
   padding: 0 !important;
 }
 
-/* --- Fix the masthead (navbar) offset --- */
-.masthead, .masthead__inner-wrap, .greedy-nav {
-  margin-left: 0 !important;
+/* 3) Some headers add left padding; zero them on HOME */
+.home .masthead,
+.home .masthead__inner-wrap,
+.home .greedy-nav {
   padding-left: 0 !important;
+  margin-left: 0 !important;
 }
 
-/* --- Content alignment for HOME only --- */
-.home .page__content,
-.home .initial-content {
-  max-width: 100% !important;
-  margin-left: 0 !important;
-  padding-left: 0 !important;
-}
-
-/* --- Small padding inside text area for breathing room --- */
+/* 4) Give inner content a tiny breathing space so text doesn't touch the edge */
 .home .page__content > *,
 .home .page__inner-wrap > * {
-  padding-left: 1rem !important;
-  padding-right: 1rem !important;
+  padding-left: 8px !important;
+  padding-right: 8px !important;
 }
 
-/* --- Slim but visible gray footer --- */
+/* 5) Keep gray footer but make it a bit taller (balanced) */
 .page__footer {
   background: #f2f2f2;
-  padding-top: 2px !important;   /* slightly taller gray area */
-  padding-bottom: 2px !important;
+  padding-top: 12px !important;
+  padding-bottom: 12px !important;
+  border-top: 1px solid #ddd;
   margin-top: 0 !important;
   text-align: center;
 }
-
 .page__footer-copyright {
   margin: 0 !important;
   padding: 0 !important;
   font-size: 0.9em;
+  line-height: 1.4;
 }
 
-/* --- Remove any horizontal scrollbars --- */
-html, body {
-  overflow-x: hidden !important;
-}
+/* 6) Prevent any stray horizontal scrollbar */
+html, body { overflow-x: hidden !important; }
