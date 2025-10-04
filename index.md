@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: ""
 permalink: /
 layout: single
 author_profile: false
@@ -7,21 +7,48 @@ classes: wide
 ---
 
 <!-- ======================= HERO SECTION ======================= -->
-<div style="display:flex; flex-wrap:wrap; align-items:center; justify-content:center; gap:25px; margin-bottom:2rem; text-align:center;">
-  <img src="/assets/img/profile.png" alt="Profile photo"
-       style="width:180px; height:210px; object-fit:cover; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.15);">
-  <div style="max-width:620px;">
+<!-- ======================= HERO SECTION ======================= -->
+<div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:25px; margin-bottom:2rem;">
+
+  <!-- Left: Profile image -->
+  <div style="flex:0 0 auto;">
+    <img src="/assets/img/profile.png" alt="Profile photo"
+         style="width:180px; height:200px; object-fit:cover; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.15);">
+  </div>
+
+  <!-- Middle: Name, title, affiliation -->
+  <div style="flex:1; min-width:250px;">
     <h1 style="margin:0; font-size:2rem; font-weight:600; color:#111;">Mohd. Sultan Ahammad</h1>
-    <p style="margin:0.5rem 0 0 0; font-size:1rem; line-height:1.5; color:#444;">
+    <p style="margin:0.25rem 0 0 0; font-size:1rem; line-height:1.5; color:#444;">
       Assistant Professor<br>
       Department of Computer Science and Engineering<br>
       <strong>Mawlana Bhashani Science and Technology University (MBSTU), Bangladesh</strong>
     </p>
-    <p style="margin:0.75rem 0 0 0; font-size:0.95rem; color:#333;">
-      Research Interests: Artificial Intelligence · Machine Learning · Deep Learning · Blockchain · Cybersecurity · Software Engineering · Virtual Reality
-    </p>
+  </div>
+
+  <!-- Right: Social links -->
+  <div style="flex:0 0 auto; text-align:center; min-width:180px;">
+    <p style="margin:0 0 0.5rem 0; font-weight:500; font-size:0.95rem;">Find more about me:</p>
+    <div style="display:flex; gap:12px; justify-content:center;">
+      <a href="https://scholar.google.com/citations?user=qM-KYTkAAAAJ&hl=en" title="Google Scholar">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg" width="28" alt="Google Scholar"/>
+      </a>
+      <a href="https://orcid.org/0000-0003-1376-220X" title="ORCID">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/orcid.svg" width="28" alt="ORCID"/>
+      </a>
+      <a href="https://www.linkedin.com/in/sultan-ahammad-08ba5b66/" title="LinkedIn">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="28" alt="LinkedIn"/>
+      </a>
+      <a href="https://github.com/sultanahammad" title="GitHub">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="28" alt="GitHub"/>
+      </a>
+        <a href="https://www.researchgate.net/profile/Mohd-Sultan-Ahammad-2?ev=hdr_xprf" title="ResearchGate">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/researchgate.svg" width="28" alt="ResearchGate"/>
+      </a>
+    </div>
   </div>
 </div>
+
 
 <!-- ======================= ABOUT SECTION ======================= -->
 <section style="max-width:850px; margin:0 auto; text-align:justify;">
