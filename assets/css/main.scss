@@ -8,14 +8,18 @@
 /* Add Academicons */
 @import url("https://cdn.jsdelivr.net/npm/academicons@1.9.4/css/academicons.min.css");
 
+/* === Footer Height Overrides === */
 .page__footer {
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
-  margin-top: 0.5rem;   // reduce space above footer
+  padding-top: 0.25rem !important;   /* reduce top padding */
+  padding-bottom: 0.25rem !important; /* reduce bottom padding */
+  margin-top: 0.5rem !important;      /* optional: reduce space above footer */
 }
 
 .page__footer-copyright {
-  font-size: 0.9em;     // optional: shrink text a bit
+  margin: 0 !important;
+  padding: 0 !important;
+  font-size: 0.9em;                   /* slightly smaller text */
 }
+
 
 
