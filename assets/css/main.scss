@@ -8,6 +8,12 @@
 /* Add Academicons */
 @import url("https://cdn.jsdelivr.net/npm/academicons@1.9.4/css/academicons.min.css");
 
+/* Remove unwanted horizontal scrollbar */
+html, body {
+  overflow-x: hidden !important;
+}
+
+
 /* === Ultra-compact gray footer bar === */
 .page__footer {
   /* Keep gray background but make the bar slim */
@@ -48,6 +54,7 @@
   margin-bottom: 0 !important;
   padding-bottom: 0 !important;
 }
+
 
 
 
