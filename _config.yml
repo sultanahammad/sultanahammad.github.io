@@ -1,6 +1,7 @@
 
 title: "Mohd. Sultan Ahammad"
-name: "Mohd. Sultan Ahammad"
+author:
+  name: "Mohd. Sultan Ahammad"
 description: "Assistant Professor, CSE @ MBSTU | Research: Digital Security, ML, DL, Cybersecurity, Software Engineering"
 url: "https://sultanahammad.github.io"
 baseurl: ""
@@ -16,30 +17,7 @@ plugins:
   - jekyll-sitemap
 
 # Author and social links (replace placeholders)
-author:
-  name: "Mohd. Sultan Ahammad"
-  avatar: "/assets/img/sultan_pp.jpg" # replace with your headshot (same path)
-  bio: "Assistant Professor, Dept. of CSE, Mawlana Bhashani Science & Technology University (MBSTU), Bangladesh."
-  location: "Tangail, Bangladesh"
-  links:
-    - label: "Email"
-      icon: "fas fa-envelope"
-      url: "mailto:sultan.ahammad36@gmail.com"
-    - label: "Google Scholar"
-      icon: "fas fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=qM-KYTkAAAAJ&hl=en/" # TODO: replace with your Scholar profile URL
-    - label: "ORCID"
-      icon: "fa-brands fa-orcid"
-      url: "https://orcid.org/my-orcid?orcid=0000-0003-1376-220X" # TODO: replace with your ORCID
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/sultan-ahammad-08ba5b66/" # TODO: replace with your LinkedIn
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/sultanahammad"
-    - label: "ResearchGate"
-      icon: "fab fa-researchgate"
-      url: "https://www.researchgate.net/profile/Mohd-Sultan-Ahammad-2?ev=hdr_xprf" # TODO: replace with your LinkedIn
+
 
 # Defaults for pages
 defaults:
