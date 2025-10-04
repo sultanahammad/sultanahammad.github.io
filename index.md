@@ -12,7 +12,7 @@ classes: wide
   <!-- Left: Profile image -->
   <div>
     <img src="/assets/img/profile.png" alt="Profile photo"
-         style="width:180px; height:200px; object-fit:cover;">
+         style="width:160px; height:180px; object-fit:cover;">
   </div>
 
   <!-- Middle: Name, title, affiliation -->
