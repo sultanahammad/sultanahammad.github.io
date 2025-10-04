@@ -7,19 +7,18 @@ classes: wide
 ---
 
 <!-- ======================= HERO SECTION ======================= -->
-<!-- ======================= HERO SECTION ======================= -->
-<div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:25px; margin-bottom:2rem;">
+<div class="hero-container">
 
   <!-- Left: Profile image -->
-  <div style="flex:0 0 auto;">
+  <div>
     <img src="/assets/img/profile.png" alt="Profile photo"
-         style="width:180px; height:200px; object-fit:cover; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.15);">
+         style="width:180px; height:200px; object-fit:cover;">
   </div>
 
   <!-- Middle: Name, title, affiliation -->
   <div style="flex:1; min-width:250px;">
-    <h1 style="margin:0; font-size:2rem; font-weight:600; color:#111;">Mohd. Sultan Ahammad</h1>
-    <p style="margin:0.25rem 0 0 0; font-size:1rem; line-height:1.5; color:#444;">
+    <h1>Mohd. Sultan Ahammad</h1>
+    <p>
       Assistant Professor<br>
       Department of Computer Science and Engineering<br>
       <strong>Mawlana Bhashani Science and Technology University (MBSTU), Bangladesh</strong>
@@ -27,10 +26,10 @@ classes: wide
   </div>
 
   <!-- Right: Social links -->
-  <div style="flex:0 0 auto; text-align:center; min-width:180px;">
-    <p style="margin:0 0 0.5rem 0; font-weight:500; font-size:0.95rem;">Find more about me:</p>
-    <div style="display:flex; gap:12px; justify-content:center;">
-      <a href="https://scholar.google.com/citations?user=qM-KYTkAAAAJ&hl=en" title="Google Scholar">
+  <div class="hero-social">
+    <p>Find more about me:</p>
+    <div class="hero-icons">
+         <a href="https://scholar.google.com/citations?user=qM-KYTkAAAAJ&hl=en" title="Google Scholar">
         <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg" width="28" alt="Google Scholar"/>
       </a>
       <a href="https://orcid.org/0000-0003-1376-220X" title="ORCID">
@@ -48,6 +47,7 @@ classes: wide
     </div>
   </div>
 </div>
+
 
 
 <!-- ======================= ABOUT SECTION ======================= -->
