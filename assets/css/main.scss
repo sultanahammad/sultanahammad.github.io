@@ -1,11 +1,51 @@
 ---
 ---
 
+/* ================================================================
+   IMPORT THEME
+   ================================================================ */
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
+/* ================================================================
+   GLOBAL TYPOGRAPHY
+   ================================================================ */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&family=Open+Sans:wght@400;500&display=swap");
 
-/* ======== Remove left indent on all pages, especially home ======== */
+body {
+  font-family: "Open Sans", Arial, sans-serif;
+  font-size: 17px;
+  line-height: 1.6;
+  color: #222;
+  background: #fff;
+  text-rendering: optimizeLegibility;
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: "Poppins", "Open Sans", sans-serif;
+  color: #111;
+  font-weight: 600;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+h1 { font-size: 2rem; }
+h2 { font-size: 1.6rem; }
+h3 { font-size: 1.35rem; }
+h4 { font-size: 1.1rem; }
+
+a {
+  color: #007acc;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* ================================================================
+   PAGE STRUCTURE — FLUSH LEFT ALIGNMENT
+   ================================================================ */
 .initial-content,
 .initial-content > .wrap,
 .page,
@@ -13,24 +53,65 @@
 .page__content {
   max-width: 100% !important;
   width: 100% !important;
-  padding-left: 0 !important;
-  margin-left: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
 }
 
-/* Disable theme auto-centering */
 .wrap {
   max-width: none !important;
   margin: 0 !important;
   padding: 0 !important;
 }
 
-/* Small breathing room for inner content */
-.page__content > * {
-  padding-left: 10px !important;
-  padding-right: 10px !important;
+/* Center and balance main content */
+.page__content {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 1rem;
 }
 
-/* Ensure masthead (header bar) starts at far left */
+/* ================================================================
+   HERO SECTION
+   ================================================================ */
+.home .page__content > div:first-child {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.home img {
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+/* ================================================================
+   SECTION SPACING
+   ================================================================ */
+.page__content section {
+  margin-bottom: 2rem;
+}
+
+/* ================================================================
+   FOOTER STYLE
+   ================================================================ */
+.page__footer {
+  background: #f2f2f2;
+  padding-top: 14px !important;
+  padding-bottom: 14px !important;
+  border-top: 1px solid #ddd;
+  margin-top: 0 !important;
+  text-align: center;
+}
+
+.page__footer-copyright {
+  margin: 0 !important;
+  padding: 0 !important;
+  font-size: 0.9em;
+  line-height: 1.4;
+}
+
+/* ================================================================
+   MASTHEAD FIXES (NAVIGATION BAR)
+   ================================================================ */
 .masthead,
 .masthead__inner-wrap,
 .greedy-nav {
@@ -38,20 +119,17 @@
   padding-left: 0 !important;
 }
 
-/* Keep footer gray and tidy */
-.page__footer {
-  background: #f2f2f2;
-  padding-top: 1px !important;
-  padding-bottom: 1px !important;
-  margin-top: 0 !important;
-  text-align: center;
+/* ================================================================
+   RESPONSIVE ADJUSTMENTS
+   ================================================================ */
+@media screen and (max-width: 768px) {
+  body {
+    font-size: 16px;
+  }
+  h1 {
+    font-size: 1.6rem;
+  }
+  .page__content {
+    padding: 0 0.75rem;
+  }
 }
-.page__footer-copyright {
-  margin: 0 !important;
-  padding: 0 !important;
-  font-size: 0.9em;
-}
-
-/* Prevent horizontal scrollbars */
-html, body { overflow-x: hidden !important; }
-
