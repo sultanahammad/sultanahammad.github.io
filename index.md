@@ -16,8 +16,8 @@ classes: wide
   </div>
 
   <!-- Middle: Name, title, affiliation -->
-  <div style="flex:1; min-width:250px;">
-    <h2>Mohd. Sultan Ahammad</h2>
+  <div style="min-width:250px;">
+    <h3>Mohd. Sultan Ahammad</h3>
     <p>
       Assistant Professor<br>
       Department of Computer Science and Engineering<br>
