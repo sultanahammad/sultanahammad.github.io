@@ -105,11 +105,3 @@ classes: wide
     <li><strong>[Year]</strong> Award / Scholarship / Recognition — brief one-line description.</li>
   </ul>
 </section>
-
-<!-- ======================= SOCIAL ICONS ======================= -->
-<div style="margin-top:1rem; text-align:center;">
-  <a href="https://scholar.google.com/citations?user=qM-KYTkAAAAJ&hl=en" class="ai ai-google-scholar ai-fw" style="font-size:1.5rem; margin-right:10px;"></a>
-  <a href="https://orcid.org/0000-0003-1376-220X" class="ai ai-orcid ai-fw" style="font-size:1.5rem; margin-right:10px;"></a>
-  <a href="https://www.linkedin.com/" class="fab fa-linkedin" style="font-size:1.5rem; margin-right:10px;"></a>
-  <a href="https://github.com/sultanahammad" class="fab fa-github" style="font-size:1.5rem;"></a>
-</div>
