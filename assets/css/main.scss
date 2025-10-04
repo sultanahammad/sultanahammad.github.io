@@ -1,56 +1,60 @@
 ---
 ---
 
-/* Minimal Mistakes base imports */
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
-/* Add Academicons */
-@import url("https://cdn.jsdelivr.net/npm/academicons@1.9.4/css/academicons.min.css");
+/* ======= Full-width Home Page Layout ======= */
 
-/* === Homepage Alignment Fix === */
-.home .page__content,
+/* Remove left & right spacing for the entire home page */
+body.home,
 .home .initial-content,
-.layout--single .page__content,
-.layout--single .initial-content {
-  max-width: 100% !important;     /* Use full width */
-  padding-left: 0 !important;     /* Remove left padding */
-  margin-left: 0 !important;      /* Remove left margin */
-}
-
-/* Optional: Adjust inner wrapper padding for better layout */
-.page__inner-wrap {
-  padding-left: 0 !important;
-  padding-right: 1rem !important;
-}
-
-/* === Footer Styling (slightly higher gray bar) === */
-.page__footer {
-  background: #f2f2f2;            /* Keep light gray background */
-  padding-top: 10px !important;   /* increase height */
-  padding-bottom: 10px !important;
-  margin-top: 0 !important;
-  min-height: 40px !important;    /* set consistent bar height */
-  border-top: 1px solid #ddd;
-}
-
-/* Center footer text */
-.page__footer-copyright {
-  text-align: center;
-  font-size: 0.9em;
+.home main.page,
+.home .page__inner-wrap,
+.home .page__content {
+  max-width: 100% !important;
   margin: 0 !important;
   padding: 0 !important;
+  width: 100% !important;
+}
+
+/* Prevent extra space from the theme’s wrapper div */
+.wrap {
+  padding-left: 0 !important;
+  margin-left: 0 !important;
+}
+
+/* If you have a sidebar/profile on homepage, disable it */
+.home .sidebar,
+.home .page__sidebar {
+  display: none !important;
+}
+
+/* Keep paragraph and text readable width */
+.home .page__content p,
+.home .page__content div {
+  padding-left: 1rem;   /* small breathing space */
+  padding-right: 1rem;
+}
+
+/* ======= Footer (slightly taller gray bar) ======= */
+.page__footer {
+  background: #f2f2f2;
+  padding-top: 12px !important;
+  padding-bottom: 12px !important;
+  border-top: 1px solid #ddd;
+  margin-top: 0 !important;
+  text-align: center;
+}
+
+.page__footer-copyright {
+  margin: 0 !important;
+  padding: 0 !important;
+  font-size: 0.9em;
   line-height: 1.4;
 }
 
-/* === Remove horizontal scroll bar === */
+/* ======= Remove any horizontal scroll bar ======= */
 html, body {
   overflow-x: hidden !important;
 }
-
-
-
-
-
-
-
