@@ -55,6 +55,36 @@ html, body {
   padding-bottom: 0 !important;
 }
 
+/* ======= Custom Homepage Layout Overrides ======= */
+
+/* Remove left indentation from the homepage */
+.layout--single .page__content,
+.layout--single .initial-content {
+  max-width: 100% !important;   /* full width */
+  padding-left: 0 !important;
+  margin-left: 0 !important;
+}
+
+/* Optional: also reset container wrapping the page */
+.page {
+  padding-left: 0 !important;
+  margin-left: 0 !important;
+}
+
+/* Optional: tighten up top/bottom spacing */
+.page__inner-wrap {
+  padding-left: 0 !important;
+  padding-right: 1rem !important; /* small right padding for breathing space */
+}
+
+/* Keep content centered on other pages, only remove indent on home */
+.home .page__content,
+.home .initial-content {
+  padding-left: 0 !important;
+  margin-left: 0 !important;
+}
+
+
 
 
 
