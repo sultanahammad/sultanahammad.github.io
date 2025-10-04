@@ -1,46 +1,48 @@
----
----
+/* =======================================================
+   FULL-WIDTH HOMEPAGE + SLIGHTLY TALLER FOOTER
+   ======================================================= */
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
-@import "minimal-mistakes";
-
-/* ======= Full-width Home Page Layout ======= */
-
-/* Remove left & right spacing for the entire home page */
-body.home,
-.home .initial-content,
-.home main.page,
-.home .page__inner-wrap,
-.home .page__content {
-  max-width: 100% !important;
+/* --- Remove all side padding/margin globally --- */
+html, body, .initial-content, .page, .page__inner-wrap, .page__content {
   margin: 0 !important;
   padding: 0 !important;
+  max-width: 100% !important;
   width: 100% !important;
 }
 
-/* Prevent extra space from the theme’s wrapper div */
-.wrap {
-  padding-left: 0 !important;
-  margin-left: 0 !important;
-}
-
-/* If you have a sidebar/profile on homepage, disable it */
-.home .sidebar,
-.home .page__sidebar {
+/* --- Disable sidebar completely --- */
+.sidebar, .page__sidebar, .page__meta, .author__avatar {
   display: none !important;
+  width: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
 }
 
-/* Keep paragraph and text readable width */
-.home .page__content p,
-.home .page__content div {
-  padding-left: 1rem;   /* small breathing space */
-  padding-right: 1rem;
+/* --- Fix the masthead (navbar) offset --- */
+.masthead, .masthead__inner-wrap, .greedy-nav {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
 }
 
-/* ======= Footer (slightly taller gray bar) ======= */
+/* --- Content alignment for HOME only --- */
+.home .page__content,
+.home .initial-content {
+  max-width: 100% !important;
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+}
+
+/* --- Small padding inside text area for breathing room --- */
+.home .page__content > *,
+.home .page__inner-wrap > * {
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+}
+
+/* --- Slim but visible gray footer --- */
 .page__footer {
   background: #f2f2f2;
-  padding-top: 2px !important;
+  padding-top: 2px !important;   /* slightly taller gray area */
   padding-bottom: 2px !important;
   margin-top: 0 !important;
   text-align: center;
@@ -52,8 +54,7 @@ body.home,
   font-size: 0.9em;
 }
 
-/* ======= Remove any horizontal scroll bar ======= */
+/* --- Remove any horizontal scrollbars --- */
 html, body {
   overflow-x: hidden !important;
 }
-
