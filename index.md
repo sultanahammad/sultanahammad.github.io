@@ -17,11 +17,11 @@ classes: wide
 
   <!-- Middle: Name, title, affiliation -->
   <div style="flex:1; min-width:250px;">
-    <h1>Mohd. Sultan Ahammad</h1>
+    <h2>Mohd. Sultan Ahammad</h2>
     <p>
       Assistant Professor<br>
       Department of Computer Science and Engineering<br>
-      <strong>Mawlana Bhashani Science and Technology University (MBSTU), Bangladesh</strong>
+      Mawlana Bhashani Science and Technology University (MBSTU), Bangladesh
     </p>
   </div>
 
