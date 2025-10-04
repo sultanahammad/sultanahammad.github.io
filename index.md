@@ -21,6 +21,7 @@ classes: wide
     <p>
       Assistant Professor<br>
       Department of Computer Science and Engineering<br>
+      Faculty of Engineering<br>
       Mawlana Bhashani Science and Technology University (MBSTU), Bangladesh
     </p>
   </div>
