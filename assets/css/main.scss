@@ -1,67 +1,30 @@
----
----
-
-/* Load Minimal Mistakes core first */
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
-@import "minimal-mistakes";
-
-/* =======================================================
-   FULL-WIDTH HOME (FLUSH LEFT) + TUNED FOOTER
-   ======================================================= */
-
-/* 1) Nuke the theme’s left padding/margins on HOME wrappers */
+/* --- Flush-left homepage (remove theme container padding/margins) --- */
+.home .initial-content,
 .home .initial-content > .wrap,
 .home main.page,
 .home .page__inner-wrap,
 .home .page__content {
   max-width: 100% !important;
   width: 100% !important;
-  margin: 0 !important;
+  margin-left: 0 !important;
   padding-left: 0 !important;
+  margin-right: 0 !important;
   padding-right: 0 !important;
 }
 
-/* 2) Ensure no sidebar space is being reserved anywhere */
+/* If a sidebar stub exists, collapse it */
 .home .page__sidebar,
 .home .sidebar,
 .home .page__meta,
-.home .author__avatar {
-  display: none !important;
-  width: 0 !important;
-  margin: 0 !important;
-  padding: 0 !important;
-}
+.home .author__avatar { display: none !important; width: 0 !important; }
 
-/* 3) Some headers add left padding; zero them on HOME */
-.home .masthead,
-.home .masthead__inner-wrap,
-.home .greedy-nav {
-  padding-left: 0 !important;
-  margin-left: 0 !important;
-}
+/* Optional: tiny breathing space so text doesn’t touch screen edge */
+.home .page__content > * { padding-left: 10px !important; padding-right: 10px !important; }
 
-/* 4) Give inner content a tiny breathing space so text doesn't touch the edge */
-.home .page__content > *,
-.home .page__inner-wrap > * {
-  padding-left: 8px !important;
-  padding-right: 8px !important;
-}
+/* If your theme uses a CSS var for content width, force it to full */
+:root { --content-width: 100% !important; }
 
-/* 5) Keep gray footer but make it a bit taller (balanced) */
-.page__footer {
-  background: #f2f2f2;
-  padding-top: 12px !important;
-  padding-bottom: 12px !important;
-  border-top: 1px solid #ddd;
-  margin-top: 0 !important;
-  text-align: center;
+/* Ensure the header doesn’t push content right */
+.home .masthead, .home .masthead__inner-wrap, .home .greedy-nav {
+  margin-left: 0 !important; padding-left: 0 !important;
 }
-.page__footer-copyright {
-  margin: 0 !important;
-  padding: 0 !important;
-  font-size: 0.9em;
-  line-height: 1.4;
-}
-
-/* 6) Prevent any stray horizontal scrollbar */
-html, body { overflow-x: hidden !important; }
