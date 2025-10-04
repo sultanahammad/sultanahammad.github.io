@@ -14,9 +14,8 @@ classes: wide
     <h1 style="margin:0;">Mohd. Sultan Ahammad</h1>
     <p style="margin:0.25rem 0 0 0; font-size:0.75rem;">
       Assistant Professor <br>
-      Department of Computer Science and Engineering <br>
-      Mawlana Bhashani Science and Technology University (MBSTU) <br>
-      Santosh, Tangail, Bangladesh
+      Department of Computer Science and Engineering
+      Mawlana Bhashani Science and Technology University (MBSTU), Bangladesh
     </p>
     <p style="margin:0.25rem 0 0 0; font-size:0.95rem;">
       Research: Artificial Intelligence · Machine Learning · Deep Learning · Blockchain · Cybersecurity · Software Engineering · Virtual Reality
