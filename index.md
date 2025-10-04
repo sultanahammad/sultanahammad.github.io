@@ -12,12 +12,14 @@ classes: wide
      style="width:160px; height:180px; object-fit:cover; border-radius:6px; box-shadow:0 2px 6px rgba(0,0,0,0.15);">
   <div>
     <h1 style="margin:0;">Mohd. Sultan Ahammad</h1>
-    <p style="margin:0.25rem 0 0 0; font-size:1.05rem;">
-      Assistant Professor, Department of Computer Science & Engineering (CSE)<br>
-      Mawlana Bhashani Science & Technology University (MBSTU), Bangladesh
+    <p style="margin:0.25rem 0 0 0; font-size:0.75rem;">
+      Assistant Professor <br>
+      Department of Computer Science and Engineering <br>
+      Mawlana Bhashani Science and Technology University (MBSTU) <br>
+      Santosh, Tangail, Bangladesh
     </p>
     <p style="margin:0.25rem 0 0 0; font-size:0.95rem;">
-      Research: Digital Security · Machine Learning · Deep Learning · Cybersecurity · Software Engineering
+      Research: Artificial Intelligence · Machine Learning · Deep Learning · Blockchain · Cybersecurity · Software Engineering · Virtual Reality
     </p>
   </div>
 </div>
@@ -25,8 +27,7 @@ classes: wide
 <!-- Social icons come from _config.yml author.links -->
 
 <p>
-I am an Assistant Professor of Computer Science & Engineering at MBSTU. My research interests include digital security, machine learning, deep learning,
-cybersecurity, and software engineering. I aim to develop practical, trustworthy AI systems and secure, privacy‑preserving solutions for real‑world applications.
+I am an Assistant Professor of Computer Science & Engineering at MBSTU. My research interests include artificial intelligence, machine learning, deep learning, blockchain, cybersecurity, virtual reality, and software engineering. I aim to develop practical, trustworthy AI systems and secure, privacy‑preserving solutions for real‑world applications.
 </p>
 
 ### News & Events
