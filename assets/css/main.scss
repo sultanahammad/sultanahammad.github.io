@@ -119,6 +119,84 @@ a:hover {
   padding-left: 0 !important;
 }
 
+/* ===============================
+   HERO SECTION (PHOTO + NAME + ICONS)
+   =============================== */
+
+/* Keep everything aligned and responsive */
+.hero-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 25px;
+  margin-bottom: 2rem;
+}
+
+/* Left photo */
+.hero-container img {
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+/* Middle text block */
+.hero-container h1 {
+  font-size: 2rem;
+  font-weight: 600;
+  margin: 0;
+  color: #111;
+}
+
+.hero-container p {
+  margin: 0.25rem 0 0 0;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #444;
+}
+
+/* Right social links */
+.hero-social {
+  text-align: center;
+  min-width: 180px;
+}
+
+.hero-social p {
+  margin: 0 0 0.5rem 0;
+  font-weight: 500;
+  font-size: 0.95rem;
+}
+
+/* Social icons row */
+.hero-icons {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+}
+
+.hero-icons a img {
+  width: 30px;
+  height: 30px;
+  transition: transform 0.2s ease, filter 0.2s ease;
+}
+
+/* Hover effect: slight zoom + blue tint */
+.hero-icons a:hover img {
+  transform: scale(1.1);
+  filter: brightness(1.1) drop-shadow(0 0 4px rgba(0, 122, 204, 0.6));
+}
+
+/* Responsive tweaks */
+@media screen and (max-width: 768px) {
+  .hero-container {
+    justify-content: center;
+    text-align: center;
+  }
+  .hero-social {
+    margin-top: 1rem;
+  }
+}
+
+
 /* ================================================================
    RESPONSIVE ADJUSTMENTS
    ================================================================ */
@@ -133,3 +211,4 @@ a:hover {
     padding: 0 0.75rem;
   }
 }
+
