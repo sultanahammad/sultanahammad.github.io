@@ -8,8 +8,8 @@ classes: wide
 
 <!-- Hero -->
 <div style="display:flex; gap:20px; align-items:center; flex-wrap:wrap; margin-bottom:0.75rem;">
-  <img src="/assets/img/sultan_pp.jpg" alt="Profile photo"
-     style="width:160px; height:200px; object-fit:cover; border-radius:6px; box-shadow:0 2px 6px rgba(0,0,0,0.15);">
+  <img src="/assets/img/profile.png" alt="Profile photo"
+     style="width:160px; height:180px; object-fit:cover; border-radius:6px; box-shadow:0 2px 6px rgba(0,0,0,0.15);">
   <div>
     <h1 style="margin:0;">Mohd. Sultan Ahammad</h1>
     <p style="margin:0.25rem 0 0 0; font-size:1.05rem;">
