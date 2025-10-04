@@ -1,14 +1,8 @@
 
----
-title: "Home"
-permalink: /
-layout: single
-author_profile: true
----
 
 <!-- Hero -->
 <div style="display:flex; gap:20px; align-items:center; flex-wrap:wrap; margin-bottom:0.75rem;">
-  <img src="/assets/img/profile.jpg" alt="Profile photo" style="width:140px; height:140px; object-fit:cover; border-radius:50%;">
+  <img src="/assets/img/sultan_pp.jpg" alt="Profile photo" style="width:140px; height:140px; object-fit:cover; border-radius:50%;">
   <div>
     <h1 style="margin:0;">Mohd. Sultan Ahammad</h1>
     <p style="margin:0.25rem 0 0 0; font-size:1.05rem;">
@@ -22,12 +16,6 @@ author_profile: true
 </div>
 
 <!-- Social icons come from _config.yml author.links -->
-
-<!-- Highlight banner -->
-<div style="background:#f7f7f7; border:1px solid #e5e5e5; padding:12px 14px; border-radius:8px; margin:0.5rem 0 1rem 0;">
-  <strong>Multiple MSc/Project Supervision Slots Open!</strong><br>
-  If you're motivated to work on AI/ML, Cybersecurity, or Blockchain, check the <a href="/vacancies/">Vacancies</a> page and email me with your CV, transcripts, and a short note on your interests.
-</div>
 
 <p>
 I am an Assistant Professor of Computer Science & Engineering at MBSTU. My research interests include digital security, machine learning, deep learning,
