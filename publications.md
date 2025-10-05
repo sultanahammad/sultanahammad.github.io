@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: ""
 permalink: /publications/
 layout: single
 author_profile: false
@@ -12,7 +12,7 @@ author_profile: false
 - **Ahammad, M. S.**, et al. *Federated Learning for Healthcare: A Privacy-Preserving Perspective*. Under Review.
 
 ### 2024
-- **Ahammad, M. S.**, et al. *Blockchain-Enabled KYC Framework Using Hyperledger Fabric and IPFS*. **IEEE Access**, 2024.
+- KL-FedDis: A Federated Learning Approach with Distribution Information Sharing Using Kullback-Leibler Divergence for Non-IID Data," Md. Rahad, Ruhan Shabab, **Mohd. Sultan Ahammad**, Md. Mahfuz Reza, Amit Karmaker, Md. Abir Hossain – published on Neuroscience Informatics, Elsevier, November 28, 2024, ISSN: 2772-5286.
 - **Ahammad, M. S.**, et al. *AI-Driven Cybersecurity Framework for Digital Banking Systems*. **Wiley SN Computer Science**, 2024.
 - **Ahammad, M. S.**, et al. *Deep Learning for Speech Emotion Recognition Using CNN-Based Spectrograms*. **Scientific Reports**, 2024.
 
