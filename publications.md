@@ -5,11 +5,19 @@ layout: single
 author_profile: false
 ---
 
-## 📚 Publications
+### 📚 Publications
 
 ### 2025
-- **Ahammad, M. S.**, et al. *Explainable Small Language Models: A Survey*. Submitted to **NAACL 2025**.
-- **Ahammad, M. S.**, et al. *Federated Learning for Healthcare: A Privacy-Preserving Perspective*. Under Review.
+
+### Conference
+- **Ahammad, M. S.**, et al. *A Blockchain-Based Framework for Secure and Efficient KYC Using Hyperledger Fabric and IPFS*. Submitted to **ICCIT 2025**.
+- **Ahammad, M. S.**, et al. *Gono Moncho: A Decentralized, Sybil-resistant Ecosystem for Verifiable Journalism with Privacy-Preserving Cryptographic Proofs*. Submitted to **ICCIT 2025**.
+  
+### Journal
+- **Ahammad, M. S.**, et al. *An Innovative Blockchain Framework for Strengthening Security and Efficiency in Banking*. Under Review in **Scientific Reports**, Springer Nature.
+- **Ahammad, M. S.**, et al. *AgileDevTrackX: Agile Project Management Application-Addressing Challenges and Maximizing Benefits in Software Development and Maintenance*. Under Review in **IET Software**, Wiley.
+- **Ahammad, M. S.**, et al. *Precision Heart Disease Prediction Using High-Performance Machine Learning with Advanced Feature Encoding and SMOTE-Optimized Feature Selection*. Under Review in **Biomedical Engineering**, Springer.
+- **Ahammad, M. S.**, et al. *DistB-OT: A Distributed Secure Blockchain based Online Ticketing System using Hyperledger Fabric and PBFT*. Under Review in **IET Blockchain**, Wiley.
 
 ### 2024
 - KL-FedDis: A Federated Learning Approach with Distribution Information Sharing Using Kullback-Leibler Divergence for Non-IID Data," Md. Rahad, Ruhan Shabab, **Mohd. Sultan Ahammad**, Md. Mahfuz Reza, Amit Karmaker, Md. Abir Hossain – published on Neuroscience Informatics, Elsevier, November 28, 2024, ISSN: 2772-5286.
