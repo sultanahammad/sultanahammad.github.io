@@ -1,5 +1,5 @@
 ---
-title: "Teaching and Services"
+title: ""
 permalink: /teaching/
 layout: single
 author_profile: false
@@ -17,14 +17,12 @@ classes: wide
 
 **Postgraduate**
 - Big Data Analytics & Data Engineering
-- Topics in Machine Learning / Deep Learning (seminar)
+- Blockchain and Cryptocurrency
 
 ### Course Materials (public)
 - OOAD: Syllabus · Labs · Mini-projects — [link](#)
 - Web Engineering: Slides · Assignments — [link](#)
 - Big Data Analytics: Spark labs · Datasets — [link](#)
-
-> *Note:* Replace `#` with your actual links to GitHub repos, Drive folders, or PDFs.
 
 ### Course / Curriculum Development
 - Designed **Digital Content Design & Development** (UG) with hands-on project pipeline (Figma → HTML/CSS/JS).
