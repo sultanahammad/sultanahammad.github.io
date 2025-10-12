@@ -10,61 +10,53 @@ classes: wide
 
 ### Current / Recent Courses
 **Undergraduate**
-- Digital Content Design & Development
+- Digital Content Design & Development (intro + practice)
+- Discrete & Concrete Mathematics
+- Database Management Systems (intro + practice)
 - Object-Oriented Analysis & Design (OOAD)
-- Web Engineering
-- Software Engineering (intro + practice)
+- Multimedia & Web Engineering (intro + practice)
+- Software Engineering
+- Object Oriented Programming (intro + practice)
 
 **Postgraduate**
+- Advanced Software Engineering
 - Big Data Analytics & Data Engineering
+- Software Design Pattern and Testing
 - Blockchain and Cryptocurrency
-
-### Course Materials (public)
-- OOAD: Syllabus · Labs · Mini-projects — [link](#)
-- Web Engineering: Slides · Assignments — [link](#)
-- Big Data Analytics: Spark labs · Datasets — [link](#)
 
 ### Course / Curriculum Development
 - Designed **Digital Content Design & Development** (UG) with hands-on project pipeline (Figma → HTML/CSS/JS).
-- Updated **Big Data Analytics & Data Engineering** (PG): Spark + PySpark labs, data lakes, ETL.
-- Introduced reproducible-research workflows (Jupyter, Git, CI for notebooks).
+- Updated **Multimedia & Web Engineering** (UG): with hands-on project pipeline (HTML/CSS/JS → React/SOAP/REST → PHP/MYSQL).
 
 ### Student Supervision
 **M.Sc. (ongoing/completed)**
-- AI-driven intrusion detection for IoT (2024– )
-- Blockchain-enabled KYC with privacy-preserving storage (2024)
-- Retrieval-augmented QA for educational content (2023)
+- A K-Nearest Neighbor Classifier-Based Approach for Bengali Character Recognition Using a Custom-Developed Image Dataset
+- IoT-Driven Real-Time Environmental Monitoring System for Data Centers
 
 **B.Sc. (selected)**
-- CNN-based speech emotion recognition
-- Smart campus services with microservices & Docker
-- Low-shot image classification with data augmentation
+- Explainable AI for Cybersecurity
+- AI-based Smart Sleep Assistant
+- Personalized Mental Health Monitoring with Federated Learning
 
 ---
 
 ## Academic Services
 
 ### Department / University
-- Member, Curriculum Committee, CSE, MBSTU (2024– )
-- Coordinator, Departmental Workshop on Digital Content Design & Development (2024)
-- Organizer, Research Reading Group (AI/ML) (monthly)
+- Member, Academic Committee, CSE, MBSTU
+- Coordinator, Departmental Workshop on Digital Content Design & Development
+- Organizer, Inter Department Programming Contest (IDPC)
 
 ### Professional Service
-- **Reviewer:** IEEE Access; SN Computer Science; IET Blockchain; (add more)
-- **Program Committee:** (conference/workshop names, years)
-- **Session Chair:** (event, year)
+- **Reviewer:** Blockchain: Research and Application, SN Computer Science
+- **Program Committee:** 1st International Conference on Engineering and Frontier Technologies 2026, MBSTU
 
-### Outreach / Mentoring
-- Mentor, student ML clubs & inter-university hackathons
-- Public talks: “Trustworthy AI” and “Intro to Blockchain” (slides: [link](#))
-
-### Administrative (if applicable)
-- Lab-in-charge, Systems & Networking Lab (2023– )
-- Internship coordinator (CSE), Summer 2024
+### Administrative
+- Assistant Proctor, MBSTU
+- House Tutor, JABMH, MBSTU
 
 ---
 
 ## Contact for Teaching Matters
-- Email: <sultan.ahammad36@gmail.com>  
-- Office Hours: [day/time or by appointment]  
-- Office: Dept. of CSE, MBSTU, Tangail, Bangladesh
+- Email: <sultan.ahammad36@gmail.com>   
+- Office: Room No. 318, Dept. of CSE, MBSTU, Tangail, Bangladesh
