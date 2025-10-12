@@ -15,7 +15,8 @@ classes: wide
 Thesis: *An Empirical Mode Decomposition (EMD) based on Steganographic Method for Digital Images*
 
 ### B.Sc. in Computer Science and Engineering
-**Mawlana Bhashani Science and Technology University, Bangladesh** — *2008–2012* 
+**Mawlana Bhashani Science and Technology University, Bangladesh** — *2008–2012*
+
 Honors: *Dean's Award and Gold Medal for Obtaining First Position in the Department of Computer Science and Engineering for the session 2007-08*
 
 ---
