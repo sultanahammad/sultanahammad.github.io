@@ -65,11 +65,11 @@ classes: wide
   <h3 style="font-size:1.4rem;">Research Areas</h3>
   <ul>
     <li>Extended Reality (XR) and Human-Computer Interaction</li>
-    <li>AI-driven cybersecurity and trustworthy AI</li>
-    <li>Blockchain security and privacy</li>
-    <li>Deep learning for speech/biomedical signals</li>
-    <li>Software engineering for ML systems</li>
-    <li>Big data analytics and data engineering</li>
+    <li>AI-driven Cybersecurity and Trustworthy AI</li>
+    <li>Blockchain Security and Privacy</li>
+    <li>Deep Learning for Speech/Biomedical signals</li>
+    <li>Software Engineering for ML Systems</li>
+    <li>Big Data Analytics and Data Engineering</li>
   </ul>
 </section>
 
