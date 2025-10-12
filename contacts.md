@@ -13,7 +13,7 @@ Assistant Professor
 Department of Computer Science & Engineering (CSE)  
 Mawlana Bhashani Science and Technology University (MBSTU), Tangail, Bangladesh
 
-📧 **Email:** [sultan.ahammad36@mbstu.ac.bd](mailto:sultan.ahammad@mbstu.ac.bd)  
+📧 **Email:** [sultan.ahammad@mbstu.ac.bd](mailto:sultan.ahammad@mbstu.ac.bd)  
 🌐 **Website:** [https://sultanahammad.github.io](https://sultanahammad.github.io)  
 🔗 **Google Scholar:** [View Profile](https://scholar.google.com/citations?user=qM-KYTkAAAAJ&hl=en)  
 🟢 **ORCID:** [0000-0003-1376-220X](https://orcid.org/0000-0003-1376-220X)  
