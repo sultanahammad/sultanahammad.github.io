@@ -60,6 +60,18 @@ classes: wide
   </p>
 </section>
 
+<!-- ======================= RESEARCH AREAS ======================= -->
+<section style="max-width:850px; margin:2rem auto; text-align:left;">
+  <h3 style="font-size:1.4rem;">Research Areas</h3>
+  <ul>
+    <li>AI-driven cybersecurity and trustworthy AI</li>
+    <li>Blockchain security and privacy</li>
+    <li>Deep learning for speech/biomedical signals</li>
+    <li>Software engineering for ML systems</li>
+    <li>Big data analytics and data engineering</li>
+  </ul>
+</section>
+
 <!-- ======================= NEWS SECTION ======================= -->
 <section style="max-width:850px; margin:2rem auto; text-align:left;">
   <h3 style="font-size:1.4rem; margin-bottom:0.5rem;">News & Events</h3>
@@ -73,13 +85,9 @@ classes: wide
     <li><em>[September 2025]</em> Our paper, “Novel hybrid model for Exploring key factors of Career Insecurities among Bangladeshi Students with Attention-based Meta Learning with Depthwise convolution features with XAI classifier\centering,” was submitted for review in Cognitive Computation.</li>
     <li><em>[September 2025]</em> Our paper, “A Blockchain-Based Framework for Secure and Efficient KYC Using Hyperledger Fabric and IPFS,” was submitted for review in the 2025 ICCIT Conference.</li>
     <li><em>[September 2025]</em> Our paper, “Gono Moncho: A Decentralized, Sybil-resistant Ecosystem for Verifiable Journalism with Privacy-Preserving Cryptographic Proofs,” was submitted for review in the 2025 ICCIT Conference.</li>
-  </ul>
-
-  <h4 style="font-size:1.1rem; margin-top:1rem;">2024</h4>
-  <ul>
-    <li><em>[May 2023]</em> Organized a workshop on <strong>National High School Programing Contest - NHSPC</strong>.</li>
-    <li><em>[Jul 2024]</em> Supervised MSc thesis on <strong>IoT-Driven Real-Time Environmental Monitoring System for Data Centers</strong>.</li>
-  </ul>
+    <li><em>[May 2025]</em> Organized a workshop on <strong>National High School Programing Contest - NHSPC</strong>.</li>
+    <li><em>[September 2025]</em> Supervised MSc thesis on <strong>IoT-Driven Real-Time Environmental Monitoring System for Data Centers</strong>.</li>
+</ul>
 </section>
 
 <!-- ======================= CONTACT SECTION ======================= -->
@@ -91,15 +99,5 @@ classes: wide
   </ul>
 </section>
 
-<!-- ======================= RESEARCH AREAS ======================= -->
-<section style="max-width:850px; margin:2rem auto; text-align:left;">
-  <h3 style="font-size:1.4rem;">Research Areas</h3>
-  <ul>
-    <li>AI-driven cybersecurity and trustworthy AI</li>
-    <li>Blockchain security and privacy</li>
-    <li>Deep learning for speech/biomedical signals</li>
-    <li>Software engineering for ML systems</li>
-    <li>Big data analytics and data engineering</li>
-  </ul>
-</section>
+
 
