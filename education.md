@@ -6,27 +6,24 @@ author_profile: false
 classes: wide
 ---
 
-### Ph.D. in [Discipline]
-**[University Name], [Country]** — *YYYY–YYYY*  
-Thesis: *[Thesis title]*  
-Advisors: [Name(s)]  
-Highlights: [award/scholarship/publications].
+### Admitted Ph.D. in Computer Science
+**Florida International University, USA** — *Spring-2026*  
 
-### M.Sc. in [Discipline]
-**[University Name], [Country]** — *YYYY–YYYY*  
-Thesis/Project: *[Title]*
 
-### B.Sc. in Computer Science & Engineering
-**[University Name], [Country]** — *YYYY–YYYY*  
-Honors: [Dean’s list / scholarships / medals].
+### M.Sc. in [Computer Science and Engineering]
+**Mawlana Bhashani Science and Technology University, Bangladesh** — *2014–2016*  
+Thesis: *An Empirical Mode Decomposition (EMD) based on Steganographic Method for Digital Images*
+
+### B.Sc. in Computer Science and Engineering
+**Mawlana Bhashani Science and Technology University, Bangladesh** — *2008–2012* 
+Honors: Dean's Award and Gold Medal for Obtaining First Position in the Department of Computer Science and Engineering for the session 2007-08.
 
 ---
 
-## Certifications (optional)
-- [Certification], [Issuer], *YYYY*
-- [Certification], [Issuer], *YYYY*
+## Certifications
+- MongoDB Basics, MongoDB University, *2018*
+- MongoDB for Java Developers, MongoDB University, *2018*
 
-## Academic Service (optional)
-- Reviewer: [Journals/Conferences]
-- Committee/Organizer: [Event/Workshop]
+## Academic Service
+- Reviewer: Blockchain: Research and Applications
 
