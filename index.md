@@ -66,14 +66,19 @@ classes: wide
 
   <h4 style="font-size:1.1rem; margin-top:1rem;">2025</h4>
   <ul>
-    <li><em>[Oct 2025]</em> Invited talk on <strong>Explainable AI for SLMs</strong> at <strong>[Venue]</strong>.</li>
-    <li><em>[Aug 2025]</em> Paper submitted to <strong>[Journal/Conference]</strong> on <strong>[Topic]</strong>.</li>
+    <li><em>[May 2025]</em> Our paper, “Precision Heart Disease Prediction Using High-Performance Machine Learning with Advanced Feature Encoding and SMOTE-Optimized Feature Selection,” was submitted for review in Biomedical Engineering.</li>
+    <li><em>[June 2025]</em> Our paper, “AgileDevTrackX: Agile Project Management Application-Addressing Challenges and Maximizing Benefits in Software Development and Maintenance,” was submitted for review in IET Software.</li
+    <li><em>[July 2025]</em> Our paper, “An Innovative Blockchain Framework for Strengthening Security and Efficiency in Banking,” was submitted for review in scientific reports.</li>
+    <li><em>[July 2025]</em> Our paper, “DistB-OT: A Distributed Secure Blockchain-based Online Ticketing System using Hyperledger Fabric and PBFT,” was submitted for review in IET Blockchain.</li>
+    <li><em>[September 2025]</em> Our paper, “Novel hybrid model for Exploring key factors of Career Insecurities among Bangladeshi Students with Attention-based Meta Learning with Depthwise convolution features with XAI classifier\centering,” was submitted for review in Cognitive Computation.</li>
+    <li><em>[September 2025]</em> Our paper, “A Blockchain-Based Framework for Secure and Efficient KYC Using Hyperledger Fabric and IPFS,” was submitted for review in the 2025 ICCIT Conference.</li>
+    <li><em>[September 2025]</em> Our paper, “Gono Moncho: A Decentralized, Sybil-resistant Ecosystem for Verifiable Journalism with Privacy-Preserving Cryptographic Proofs,” was submitted for review in the 2025 ICCIT Conference.</li>
   </ul>
 
   <h4 style="font-size:1.1rem; margin-top:1rem;">2024</h4>
   <ul>
-    <li><em>[Dec 2024]</em> Organized a departmental workshop on <strong>Digital Content Design & Development</strong>.</li>
-    <li><em>[Jul 2024]</em> Co-supervised MSc thesis on <strong>Blockchain-enabled KYC</strong>.</li>
+    <li><em>[May 2023]</em> Organized a workshop on <strong>National High School Programing Contest - NHSPC</strong>.</li>
+    <li><em>[Jul 2024]</em> Supervised MSc thesis on <strong>IoT-Driven Real-Time Environmental Monitoring System for Data Centers</strong>.</li>
   </ul>
 </section>
 
@@ -81,7 +86,7 @@ classes: wide
 <section style="max-width:850px; margin:2rem auto; text-align:left;">
   <h3 style="font-size:1.4rem;">Contact Information</h3>
   <ul style="list-style:none; padding:0;">
-    <li>Email: <a href="mailto:sultan.ahammad36@gmail.com">sultan.ahammad36@gmail.com</a></li>
+    <li>Email: <a href="mailto:sultan.ahammad@mbstu.ac.bd">sultan.ahammad@mbstu.ac.bd</a></li>
     <li>Office: Department of CSE, MBSTU, Tangail, Bangladesh</li>
   </ul>
 </section>
@@ -98,11 +103,3 @@ classes: wide
   </ul>
 </section>
 
-<!-- ======================= AWARDS SECTION ======================= -->
-<section style="max-width:850px; margin:2rem auto; text-align:left;">
-  <h3 style="font-size:1.4rem;">Awards & Honors</h3>
-  <ul>
-    <li><strong>[Year]</strong> Award / Scholarship / Recognition — brief one-line description.</li>
-    <li><strong>[Year]</strong> Award / Scholarship / Recognition — brief one-line description.</li>
-  </ul>
-</section>
