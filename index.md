@@ -64,6 +64,7 @@ classes: wide
 <section style="max-width:850px; margin:2rem auto; text-align:left;">
   <h3 style="font-size:1.4rem;">Research Areas</h3>
   <ul>
+    <li>Extended Reality (XR) and Human-Computer Interaction</li>
     <li>AI-driven cybersecurity and trustworthy AI</li>
     <li>Blockchain security and privacy</li>
     <li>Deep learning for speech/biomedical signals</li>
