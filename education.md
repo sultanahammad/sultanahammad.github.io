@@ -10,13 +10,13 @@ classes: wide
 **Florida International University, USA** — *Spring-2026*  
 
 
-### M.Sc. in [Computer Science and Engineering]
+### M.Sc. in Computer Science and Engineering
 **Mawlana Bhashani Science and Technology University, Bangladesh** — *2014–2016*  
 Thesis: *An Empirical Mode Decomposition (EMD) based on Steganographic Method for Digital Images*
 
 ### B.Sc. in Computer Science and Engineering
 **Mawlana Bhashani Science and Technology University, Bangladesh** — *2008–2012* 
-Honors: Dean's Award and Gold Medal for Obtaining First Position in the Department of Computer Science and Engineering for the session 2007-08.
+Honors: *Dean's Award and Gold Medal for Obtaining First Position in the Department of Computer Science and Engineering for the session 2007-08*
 
 ---
 
