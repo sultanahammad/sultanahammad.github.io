@@ -11,7 +11,7 @@ classes: wide
 **Mohd. Sultan Ahammad**  
 Assistant Professor  
 Department of Computer Science & Engineering (CSE)  
-Faculty of Engineering
+Faculty of Engineering  
 Mawlana Bhashani Science and Technology University (MBSTU), Tangail, Bangladesh
 
 📧 **Email:** [sultan.ahammad@mbstu.ac.bd](mailto:sultan.ahammad@mbstu.ac.bd)  
