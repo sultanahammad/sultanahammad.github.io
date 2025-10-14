@@ -15,7 +15,7 @@ Faculty of Engineering
 Mawlana Bhashani Science and Technology University (MBSTU), Tangail, Bangladesh
 
 📧 **Email:** [sultan.ahammad@mbstu.ac.bd](mailto:sultan.ahammad@mbstu.ac.bd)  
-🌐 **Website:** [https://sultanahammad.github.io](https://sultanahammad.github.io)  
+🌐 **Website:** [sultanahammad.github.io](https://sultanahammad.github.io)  
 🔗 **Google Scholar:** [View Profile](https://scholar.google.com/citations?user=qM-KYTkAAAAJ&hl=en)  
 💻 **ResearchGate:** [Mohd-Sultan-Ahammad-2](https://www.researchgate.net/profile/Mohd-Sultan-Ahammad-2)  
 💼 **LinkedIn:** [sultan-ahammad-08ba5b66](https://www.linkedin.com/in/sultan-ahammad-08ba5b66/)  
