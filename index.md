@@ -54,9 +54,7 @@ classes: wide
 <!-- ======================= ABOUT SECTION ======================= -->
 <section style="max-width:850px; margin:0 auto; text-align:justify;">
   <p>
-    I am an Assistant Professor of Computer Science & Engineering at MBSTU. My research interests include artificial intelligence, machine learning, deep learning,
-    blockchain, cybersecurity, virtual reality, and software engineering. I aim to develop practical, trustworthy AI systems and secure, privacy-preserving solutions
-    for real-world applications.
+    I am an Assistant Professor of Computer Science and Engineering at the Faculty of Engineering at Mawlana Bhashani Science and Technology University (MBSTU). My long-term goal is to bridge the gap between academia and industry by leveraging advanced research to develop practical solutions for real-world problems.  I want to combine my strong academic background and years of software engineering experience in the international arena to serve the community of students, scholars, and the software industry. My research interests include artificial intelligence, machine learning, deep learning, blockchain, cybersecurity, virtual reality, and software engineering. I aim to develop practical, trustworthy AI systems and secure, privacy-preserving solutions for real-world applications. <strong> Looking for a PhD Position in the field of Machine Learning, Deep Learning, AI, HCI, Cybersecurity, and Data Science. </strong>
   </p>
 </section>
 
