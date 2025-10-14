@@ -15,9 +15,8 @@ classes: wide
 Thesis: *An Empirical Mode Decomposition (EMD) based on Steganographic Method for Digital Images*
 
 ### B.Sc. in Computer Science and Engineering
-**Mawlana Bhashani Science and Technology University, Bangladesh** — *2008–2012*
-
-Honors: *Dean's Award and Gold Medal for Obtaining First Position in the Department of Computer Science and Engineering for the session 2007-08*
+**Mawlana Bhashani Science and Technology University, Bangladesh** — *2008–2012*  
+Honors: * <strong>Dean's Award</strong> and Gold Medal for Obtaining First Position in the Department of Computer Science and Engineering for the session 2007-08*
 
 ---
 
@@ -26,5 +25,9 @@ Honors: *Dean's Award and Gold Medal for Obtaining First Position in the Departm
 - MongoDB for Java Developers, MongoDB University, *2018*
 
 ## Academic Service
-- Reviewer: Blockchain: Research and Applications
+# Reviewer
+- Blockchain: Research and Applications
+- Transportation Research Part E
+- SN Computer Science
+- Systems and Soft Computing
 
