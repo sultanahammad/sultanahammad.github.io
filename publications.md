@@ -12,7 +12,7 @@ author_profile: false
 - **Ahammad, M. S.**, et al. *Gono Moncho: A Decentralized, Sybil-resistant Ecosystem for Verifiable Journalism with Privacy-Preserving Cryptographic Proofs*. Submitted to **ICCIT 2025**.
   
 ### Journal Papers
-- *An Innovative Blockchain Framework for Strengthening Security and Efficiency in Banking*. Under Review in **Scientific Reports**, Springer Nature.
+- *An Innovative Blockchain Framework for Strengthening Security and Efficiency in Banking*, **Mohd. Sultan Ahammad**, Maisha Maliha, Nilufa Easmin Nila, Md Shofiqul Islam – published on **Scientific Reports**, Springer Nature, November 07, 2025, ISSN: 2045-2322.
 - *AgileDevTrackX: Agile Project Management Application-Addressing Challenges and Maximizing Benefits in Software Development and Maintenance*. Under Review in **IET Software**, Wiley.
 - *Precision Heart Disease Prediction Using High-Performance Machine Learning with Advanced Feature Encoding and SMOTE-Optimized Feature Selection*. Under Review in **Biomedical Engineering**, Springer.
 - *DistB-OT: A Distributed Secure Blockchain based Online Ticketing System using Hyperledger Fabric and PBFT*. Under Review in **IET Blockchain**, Wiley.
