@@ -77,6 +77,8 @@ classes: wide
 
   <h4 style="font-size:1.1rem; margin-top:1rem;">2025</h4>
   <ul>
+    <li><em>[November 2025]</em> Our paper, “An Innovative Blockchain Framework for Strengthening Security and Efficiency in Banking,” has been published in Scientific Reports, Springer Nature.</li>
+    <li><em>[October 2025]</em> Our paper, “An Innovative Blockchain Framework for Strengthening Security and Efficiency in Banking,” has been accepted for publication in Scientific Reports.</li>
     <li><em>[May 2025]</em> Our paper, “Precision Heart Disease Prediction Using High-Performance Machine Learning with Advanced Feature Encoding and SMOTE-Optimized Feature Selection,” was submitted for review in Biomedical Engineering.</li>
     <li><em>[June 2025]</em> Our paper, “AgileDevTrackX: Agile Project Management Application-Addressing Challenges and Maximizing Benefits in Software Development and Maintenance,” was submitted for review in IET Software.</li>
     <li><em>[July 2025]</em> Our paper, “An Innovative Blockchain Framework for Strengthening Security and Efficiency in Banking,” was submitted for review in scientific reports.</li>
