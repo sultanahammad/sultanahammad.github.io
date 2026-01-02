@@ -9,24 +9,17 @@ classes: wide
 ## Contact Information
 
 **Mohd. Sultan Ahammad**  
-Assistant Professor  
-Department of Computer Science & Engineering (CSE)  
-Faculty of Engineering  
-Mawlana Bhashani Science and Technology University (MBSTU), Tangail, Bangladesh
+​PhD Student | Graduate Assistant
+Knight Foundation School of Computing and Information Sciences
+Florida International University
+Miami, FL 33199 USA
 
-📧 **Email:** [sultan.ahammad@mbstu.ac.bd](mailto:sultan.ahammad@mbstu.ac.bd)  
+📧 **Email:** [maham007@fiu.edu](mailto:maham007@fiu.edu)  
 🌐 **Website:** [sultanahammad.github.io](https://sultanahammad.github.io)  
 🔗 **Google Scholar:** [View Profile](https://scholar.google.com/citations?user=qM-KYTkAAAAJ&hl=en)  
 💻 **ResearchGate:** [Mohd-Sultan-Ahammad-2](https://www.researchgate.net/profile/Mohd-Sultan-Ahammad-2)  
 💼 **LinkedIn:** [sultan-ahammad-08ba5b66](https://www.linkedin.com/in/sultan-ahammad-08ba5b66/)  
 🟢 **ORCID:** [0000-0003-1376-220X](https://orcid.org/0000-0003-1376-220X)  
-
----
-
-## Office Location
-**Office:** Room # 318, Department of CSE  
-**Campus:** MBSTU, Santosh, Tangail, Bangladesh  
-**Office Hours:** 9:00 AM - 5:00 PM (Sat - Wed)
 
 ---
 
