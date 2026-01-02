@@ -19,10 +19,11 @@ classes: wide
   <div style="min-width:250px;">
     <h3>Mohd Sultan Ahammad</h3>
     <p>
-      PhD Student & Graduate Assistant<br>
+      PhD Student | Graduate Assistant<br>
       Knight Foundation School of Computing and Information Sciences<br>
       Florida International University (FIU)<br>
-      Member of VISAGE Lab | Advised by Dr. Christine Lisetti
+      <a href="https://visage.cs.fiu.edu/" class="lab-link">VISAGE Lab</a><br>
+            <strong>Advisor:</strong> <a href="https://users.cs.fiu.edu/~lisetti/">Dr. Christine Lisetti</a>
     </p>
   </div>
 
