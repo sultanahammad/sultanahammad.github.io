@@ -56,7 +56,9 @@ classes: wide
   <p>
     I am a PhD student and Graduate Assistant at the Knight Foundation School of Computing and Information Sciences, Florida International University. I am a member of the VISAGE (Virtual Social Agents Group) Lab, where I work under the supervision of Professor Christine Lisetti.
 
-Prior to joining FIU, I served as an Assistant Professor in the Department of Computer Science and Engineering at Mawlana Bhashani Science and Technology University (MBSTU), Bangladesh. My journey is driven by a desire to bridge the gap between academic research and industry-scale software engineering. <strong> Looking for a PhD Position in the field of Machine Learning, Deep Learning, AI, HCI, Cybersecurity, and Data Science. </strong>
+Prior to joining FIU, I served as an Assistant Professor in the Department of Computer Science and Engineering at Mawlana Bhashani Science and Technology University (MBSTU), Bangladesh. My journey is driven by a desire to bridge the gap between academic research and industry-scale software engineering. 
+
+With a background as an Assistant Professor and years of international software engineering experience, I aim to build secure and practical AI-driven solutions. My previous work spans Blockchain, Cybersecurity, and Machine Learning, and I am now applying those foundations to the field of Affective Computing and HCI.
   </p>
 </section>
 
