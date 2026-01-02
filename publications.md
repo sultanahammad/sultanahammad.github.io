@@ -8,8 +8,7 @@ author_profile: false
 ### 📚 2025
 
 ### Conference Papers
-- **Ahammad, M. S.**, et al. *A Blockchain-Based Framework for Secure and Efficient KYC Using Hyperledger Fabric and IPFS*. Submitted to **ICCIT 2025**.
-- **Ahammad, M. S.**, et al. *Gono Moncho: A Decentralized, Sybil-resistant Ecosystem for Verifiable Journalism with Privacy-Preserving Cryptographic Proofs*. Submitted to **ICCIT 2025**.
+- **Ahammad, M. S.**, et al. *A Blockchain-Based Framework for Secure and Efficient KYC Using Hyperledger Fabric and IPFS*. Accepted and Presented to **ICCIT 2025**.
   
 ### Journal Papers
 - *An Innovative Blockchain Framework for Strengthening Security and Efficiency in Banking*, **Mohd. Sultan Ahammad**, Maisha Maliha, Nilufa Easmin Nila, Md Shofiqul Islam – published on **Scientific Reports**, Springer Nature, November 07, 2025, ISSN: 2045-2322.
