@@ -9,10 +9,10 @@ classes: wide
 ## Contact Information
 
 **Mohd. Sultan Ahammad**  
-​PhD Student | Graduate Assistant 
-Knight Foundation School of Computing and Information Sciences 
-Florida International University 
-Miami, FL 33199 USA 
+​PhD Student | Graduate Assistant  
+Knight Foundation School of Computing and Information Sciences  
+Florida International University  
+Miami, FL 33199 USA  
 
 📧 **Email:** [maham007@fiu.edu](mailto:maham007@fiu.edu)  
 🌐 **Website:** [sultanahammad.github.io](https://sultanahammad.github.io)  
