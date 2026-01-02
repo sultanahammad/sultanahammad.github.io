@@ -17,12 +17,12 @@ classes: wide
 
   <!-- Middle: Name, title, affiliation -->
   <div style="min-width:250px;">
-    <h3>Mohd. Sultan Ahammad</h3>
+    <h3>Mohd Sultan Ahammad</h3>
     <p>
-      Assistant Professor<br>
-      Department of Computer Science and Engineering<br>
-      Faculty of Engineering<br>
-      Mawlana Bhashani Science and Technology University (MBSTU), Bangladesh
+      PhD Student & Graduate Assistant<br>
+      Knight Foundation School of Computing and Information Sciences<br>
+      Florida International University (FIU)<br>
+      Member of VISAGE Lab | Advised by Dr. Christine Lisetti
     </p>
   </div>
 
@@ -54,7 +54,9 @@ classes: wide
 <!-- ======================= ABOUT SECTION ======================= -->
 <section style="max-width:850px; margin:0 auto; text-align:justify;">
   <p>
-    I am an Assistant Professor of Computer Science and Engineering at the Faculty of Engineering at Mawlana Bhashani Science and Technology University (MBSTU). My long-term goal is to bridge the gap between academia and industry by leveraging advanced research to develop practical solutions for real-world problems.  I want to combine my strong academic background and years of software engineering experience in the international arena to serve the community of students, scholars, and the software industry. My research interests include artificial intelligence, machine learning, deep learning, blockchain, cybersecurity, virtual reality, and software engineering. I aim to develop practical, trustworthy AI systems and secure, privacy-preserving solutions for real-world applications. <strong> Looking for a PhD Position in the field of Machine Learning, Deep Learning, AI, HCI, Cybersecurity, and Data Science. </strong>
+    I am a PhD student and Graduate Assistant at the Knight Foundation School of Computing and Information Sciences, Florida International University. I am a member of the VISAGE (Virtual Social Agents Group) Lab, where I work under the supervision of Professor Christine Lisetti.
+
+Prior to joining FIU, I served as an Assistant Professor in the Department of Computer Science and Engineering at Mawlana Bhashani Science and Technology University (MBSTU), Bangladesh. My journey is driven by a desire to bridge the gap between academic research and industry-scale software engineering. <strong> Looking for a PhD Position in the field of Machine Learning, Deep Learning, AI, HCI, Cybersecurity, and Data Science. </strong>
   </p>
 </section>
 
